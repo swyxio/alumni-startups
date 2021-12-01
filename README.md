@@ -6,7 +6,7 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 
 - Temporal (Workflow engine): https://temporal.io
 - Chronosphere (O11y platform): https://chronosphere.io/ 
-- Trunk https://trunk.io/
+- Trunk (linting): https://trunk.io/
 - Mobile.dev (Mobile dev platform) https://www.mobile.dev/
 
 ## Lyft
