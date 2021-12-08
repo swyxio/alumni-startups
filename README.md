@@ -13,7 +13,10 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 
 - RideOS (cloud for autonomous vehicles): https://angel.co/company/rideos
 
-
 ## Facebook
 
 - Honeycomb (o11y): https://www.honeycomb.io/
+
+## Shopify
+
+- Gadget (App builder): https://gadget.dev
