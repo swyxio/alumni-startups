@@ -21,3 +21,15 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 ## Shopify
 
 - Gadget (App builder): https://gadget.dev
+
+## Misc mafias for reference
+
+### Stripe
+
+- Watershed Climate
+
+### Amazon
+
+- https://www.quora.com/Which-startups-have-been-founded-by-ex-Amazon-employees
+- Instacart
+- Twilio
