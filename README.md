@@ -10,6 +10,8 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 - Trunk (linting): https://trunk.io/
 - Mobile.dev (Mobile dev platform) https://www.mobile.dev/
 
+https://twitter.com/dharosaurus/status/1502048592130945024?s=21
+
 ## Lyft
 
 - RideOS (cloud for autonomous vehicles): https://angel.co/company/rideos
@@ -21,6 +23,12 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 ## Shopify
 
 - Gadget (App builder): https://gadget.dev
+
+## github
+
+- https://techcrunch.com/2021/01/05/rewatch-seed/amp/
+- planetscale?
+
 
 ## Misc mafias for reference
 
