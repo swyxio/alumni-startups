@@ -41,3 +41,8 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 - https://www.quora.com/Which-startups-have-been-founded-by-ex-Amazon-employees
 - Instacart
 - Twilio
+
+
+## Paypal
+
+- https://twitter.com/mt_capital1/status/1508092628151291910?s=21
