@@ -17,6 +17,7 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 ## Lyft
 
 - RideOS (cloud for autonomous vehicles): https://angel.co/company/rideos
+- Stemma (Amundsen - data discovery): https://www.stemma.ai/about
 
 ## Facebook
 
@@ -28,7 +29,7 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 ## github
 
-- https://techcrunch.com/2021/01/05/rewatch-seed/amp/
+- https://techcrunch.com/2021/01/05/rewatch-seed/
 - planetscale?
 
 
