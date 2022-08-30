@@ -27,10 +27,15 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 - Gadget (App builder): https://gadget.dev
 
-## github
+## Github
 
 - https://techcrunch.com/2021/01/05/rewatch-seed/
-- planetscale?
+- planetscale
+
+## LinkedIn
+
+- Confluent (via Kafka)
+- Startree (via Pinot)
 
 
 ## Misc mafias for reference
