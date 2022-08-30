@@ -29,16 +29,22 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 ## Github
 
-- https://techcrunch.com/2021/01/05/rewatch-seed/
-- planetscale
+- Rewatch https://techcrunch.com/2021/01/05/rewatch-seed/
+- Planetscale - Vitess as a Service
 
 ## LinkedIn
 
 - Confluent (via Kafka)
-- Startree (via Pinot)
+- Startree (via Pinot - in memory OLAP) - https://techcrunch.com/2022/08/29/data-analytics-startup-startree-secures-cash-to-expand-its-pinot-powered-platform/
 
 
 ## Misc mafias for reference
+
+### Snap
+
+- Metamarkets/Apache Druid - in memory OLAP
+  - Rill data https://techcrunch.com/2022/08/04/rill-wants-to-rethink-bi-dashboards-with-embedded-database-and-instant-ux/
+  - Imply https://techcrunch.com/2022/05/17/real-time-database-startup-imply-reaches-unicorn-status-with-100m-infusion/
 
 ### Stripe
 
