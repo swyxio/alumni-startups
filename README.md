@@ -22,6 +22,7 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 ## Facebook
 
 - Honeycomb (o11y): https://www.honeycomb.io/
+- Rockset (rocksdb - fast sql on raw data) - https://techcrunch.com/2018/11/01/rockset-launches-out-of-stealth-with-21-5-m-investment/
 
 ## Shopify
 
