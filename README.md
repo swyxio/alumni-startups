@@ -23,6 +23,7 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 - Honeycomb (o11y): https://www.honeycomb.io/
 - Rockset (rocksdb - fast sql on raw data) - https://techcrunch.com/2018/11/01/rockset-launches-out-of-stealth-with-21-5-m-investment/
+- Presto -> Trino -> Starburst: SQL engine for hadoop -> anything
 
 ## Shopify
 
@@ -38,6 +39,9 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 - Confluent (via Kafka)
 - Startree (via Pinot - in memory OLAP) - https://techcrunch.com/2022/08/29/data-analytics-startup-startree-secures-cash-to-expand-its-pinot-powered-platform/
 
+## Google
+
+- Grok -> Sourcegraph: https://about.sourcegraph.com/blog/introducing-steve-yegge
 
 ## Misc mafias for reference
 
