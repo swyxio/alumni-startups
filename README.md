@@ -18,6 +18,7 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 - RideOS (cloud for autonomous vehicles): https://angel.co/company/rideos
 - Stemma (Amundsen - data discovery): https://www.stemma.ai/about
+- Union (Flyte) https://www.union.ai/
 
 ## Facebook
 
