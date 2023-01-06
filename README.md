@@ -9,6 +9,8 @@ personal list of dev tool startups by alums of bigname startups. trying to form 
 - Tecton.ai: (ML feature store - Michelangelo)
   - https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/
   - https://a16z.com/2020/04/28/investing-in-tecton/
+- Predibase (Uber Ludwig): https://twitter.com/w4nderlus7/status/1524790428100272145
+- https://medium.com/predibase/introducing-predibase-the-enterprise-declarative-machine-learning-platform-10e2a388d465
 - Trunk (linting): https://trunk.io/
 - Mobile.dev (Mobile dev platform) https://www.mobile.dev/
 
