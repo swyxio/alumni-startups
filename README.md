@@ -28,6 +28,8 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 - Rockset (rocksdb - fast sql on raw data) - https://techcrunch.com/2018/11/01/rockset-launches-out-of-stealth-with-21-5-m-investment/
 - Presto -> Trino -> Starburst: SQL engine for hadoop -> anything
 
+https://mobile.twitter.com/sebmarkbage/status/1616905510032412672?s=12&t=_aRhLI2212sARkuArtTutQ
+
 ## Shopify
 
 - Gadget (App builder): https://gadget.dev
@@ -45,6 +47,9 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 ## Google
 
 - Grok -> Sourcegraph: https://about.sourcegraph.com/blog/introducing-steve-yegge
+
+https://mobile.twitter.com/sebmarkbage/status/1616905510032412672?s=12&t=_aRhLI2212sARkuArtTutQ
+
 
 ## Misc mafias for reference
 
