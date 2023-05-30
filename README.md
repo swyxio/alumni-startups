@@ -47,6 +47,7 @@ https://mobile.twitter.com/sebmarkbage/status/1616905510032412672?s=12&t=_aRhLI2
 ## Google
 
 - Grok -> Sourcegraph: https://about.sourcegraph.com/blog/introducing-steve-yegge
+- [MapReduce (Hadoop), Spanner (CockroachDB), and Zanzibar (AuthZed)](https://www.moderndescartes.com/essays/why_brain/)
 
 https://mobile.twitter.com/sebmarkbage/status/1616905510032412672?s=12&t=_aRhLI2212sARkuArtTutQ
 
