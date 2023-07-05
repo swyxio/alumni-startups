@@ -24,6 +24,8 @@ https://twitter.com/dharosaurus/status/1502048592130945024?s=21
 
 ## Facebook
 
+see https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/ and [hn thread](https://news.ycombinator.com/item?id=36504554)
+
 - Honeycomb (o11y): https://www.honeycomb.io/
 - Rockset (rocksdb - fast sql on raw data) - https://techcrunch.com/2018/11/01/rockset-launches-out-of-stealth-with-21-5-m-investment/
 - Presto -> Trino -> Starburst: SQL engine for hadoop -> anything
